@@ -1,0 +1,2 @@
+-- Stored procs are included in database/init.sql for this template.
+-- (Kept as a separate file for deliverable structure.)
